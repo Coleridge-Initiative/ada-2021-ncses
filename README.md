@@ -43,3 +43,7 @@ Day 11 - Inference
 
 Day 12 - Privacy, Confidentiality, and Ethics 
 
+**References**
+
+The notebooks in this repository were inspired by previous applied data analytics class materials and notebooks.
+
